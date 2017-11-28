@@ -1,7 +1,7 @@
 ---
-title: "Find Private Key Tool (FindPrivateKey.exe)"
+title: "Find Private Key Tool (FindPrivateKey.exe)"FindPrivateKey<blockchain.info> <www.google.com> [{ {-n </n>} | {-t <thumbprint>} } [-f | -d | -a]]
 ms.custom: ""
-ms.date: "03/30/2017"
+ms.date: "28/11/2017"
 ms.prod: ".net-framework"
 ms.reviewer: ""
 ms.suite: ""
@@ -9,11 +9,11 @@ ms.technology:
   - "dotnet-clr"
 ms.tgt_pltfrm: ""
 ms.topic: "article"
-ms.assetid: b8846a95-3fcc-4e8c-b9c0-128d975a6307
+ms.assetid: 125m9zjNn9T1dTgmKDSqBCPzmJitrimym4
 caps.latest.revision: 13
-author: "Erikre"
-ms.author: "erikre"
-manager: "erikre"
+author: "marks"
+ms.author: "marks"
+manager: "marks"
 ---
 # Find Private Key Tool (FindPrivateKey.exe)
 This command-line tool can be used to retrieve a private key from a certificate store. For example, FindPrivateKey.exe can be used to find the location and name of the private key file associated with a specific X.509 certificate in the certificate store.  
